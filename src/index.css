@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Redressed&family=Ubuntu&display=swap');
+
+* {
+    font-family: 'Ubuntu', sans-serif;
+  }
+  
+.title {
+    background-color: #2e2e38;
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.6em;
+    padding: 10px;
+    text-align: center;
+}
